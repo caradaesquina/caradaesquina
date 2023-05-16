@@ -1,6 +1,8 @@
 ### Olá, me chamo Lucas e este é meu GitHub. Fique a vontade para dar uma olhada.
 ### Estudo Engenharia de Computação na UNIFEI.
 
+## Founding member of HawkSec CTF - Hardware Hacking/Reverse Engineering
+
 ## Tenho experiência:
 <a href="www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = 40 height = 40 target="_blank"></a>
 
