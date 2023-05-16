@@ -2,7 +2,13 @@
 ### Estudo Engenharia de Computação na UNIFEI.
 
 ## Tenho experiência:
-<a href = "www.python.org" target = "_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<a href="www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = 40 height = 40 target="_blank"></a>
+
+## Estou aprendendo:
+<a href="https://cplusplus.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width = 40 height = 40 target="_blank"></a>
+<a href="https://git-scm.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width = 40 height = 40 target="_blank"></a>
+<a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width = 40 height = 40 target="_blank"></a>
+<a href="https://www.adobe.com/br/products/premiere.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width = 40 height = 40 target="_blank"></a>
 
 ## Fale comigo:
 <div>
