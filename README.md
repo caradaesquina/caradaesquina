@@ -4,7 +4,7 @@
 #### Founding member of HawkSec CTF - Hardware Hacking/Reverse Engineering
 
 ## Tenho experiência:
-<a href="www.python.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = 40 height = 40 target="_blank"></a>
+<a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = 40 height = 40 target="_blank"></a>
 
 ## Estou aprendendo:
 <a href="https://cplusplus.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width = 40 height = 40 target="_blank"></a>
